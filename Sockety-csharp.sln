@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6A178EAC-8E7A-D2A8-3D8B-6E1ED5BED2B5}") = "Sockety", "Assembly-CSharp-vs.csproj", "{5CAE26B6-A122-6F31-DB32-7287FEFCB7EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CAE26B6-A122-6F31-DB32-7287FEFCB7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAE26B6-A122-6F31-DB32-7287FEFCB7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAE26B6-A122-6F31-DB32-7287FEFCB7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAE26B6-A122-6F31-DB32-7287FEFCB7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+				GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assets\Scripts\Sockety\Sockety.csproj
+	EndGlobalSection
+
+EndGlobal
